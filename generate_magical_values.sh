@@ -1,3 +1,5 @@
+#!/bin/bash
+
 random() {
     local min=$1
     local max=$2
