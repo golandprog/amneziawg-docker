@@ -56,6 +56,7 @@ cat <<EOF
 [Interface]
 PrivateKey = <put_client_private_key_here>
 Address = ${SUBNET}.<put_octet_here>/32
+DNS = 1.1.1.1
 ${MAGICAL_VALUES}
 
 [Peer]
